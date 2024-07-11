@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yc5rpvNFwLR9t28uvDhqg0YMgEG1YXpzuyL9Bb3/pRmwh3hJcLxcq5xRFxrLndwvLFmjgkdt38s1J6gOfxnuNA==",
+  "success": true,
+  "projectFilePath": "D:\\.NET\\StreamChat\\TokenAPI\\TokenAPI\\TokenAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\duckh\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\duckh\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.6.3\\microsoft.identitymodel.abstractions.7.6.3.nupkg.sha512",
+    "C:\\Users\\duckh\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.6.3\\microsoft.identitymodel.jsonwebtokens.7.6.3.nupkg.sha512",
+    "C:\\Users\\duckh\\.nuget\\packages\\microsoft.identitymodel.logging\\7.6.3\\microsoft.identitymodel.logging.7.6.3.nupkg.sha512",
+    "C:\\Users\\duckh\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.6.3\\microsoft.identitymodel.tokens.7.6.3.nupkg.sha512",
+    "C:\\Users\\duckh\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\duckh\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\duckh\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\duckh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\duckh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "C:\\Users\\duckh\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.6.3\\system.identitymodel.tokens.jwt.7.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
